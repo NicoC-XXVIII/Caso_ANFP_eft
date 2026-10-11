@@ -272,7 +272,7 @@ VALUES (8, 'BIOBIO');
 INSERT INTO REGION (id_region, nombre)
 VALUES(13, 'METROPOLITANA');
 INSERT INTO REGION
-VALUES (16, 'NUBLE');
+VALUES (16, 'ÑUBLE');
 
 /*
 Mostrar datos de regiones:
